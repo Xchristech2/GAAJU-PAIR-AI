@@ -236,25 +236,7 @@ const Sess = await EliteProTech.sendMessage(EliteProTech.user.id, {
   text: 'GAAJU-MD:' + base64Session
 });                        
 
-                        let EliteProTech_TEXT = `✅ *SESSION ID OBTAINED SUCCESSFULLY!*  
-📁 Save and upload the *SESSION_ID* (text) to the \`session\` folder as \`creds.json\`, or add it to your \`.env\` file like this:  
-\`SESSION_ID=your_session_id\`
-
-📢 *Stay Updated — Follow Our Channels:*
-
-➊ *WhatsApp Channel*  
-https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g
-
-➋ *Telegram*  
-https://t.me/elitepro_md
-
-➌ *YouTube*  
-https://youtube.com/@eliteprotechs
-
-🚫 *Do NOT share your session ID or creds.json with anyone.*
-
-🌐 *Explore more tools on our website:*  
-https://eliteprotech.zone.id`;
+                        let EliteProTech_TEXT = `✅ *SESSION ID OBTAINED SUCCESSFULLY!*`;
 
                         const EliteProTechMess = {
                             image: { url: 'https://i.ibb.co/m5nZGQ11/img-c0dmriah.jpg' },
