@@ -239,7 +239,7 @@ const Sess = await EliteProTech.sendMessage(EliteProTech.user.id, {
                         let EliteProTech_TEXT = `✅ *SESSION ID OBTAINED SUCCESSFULLY!*`;
 
                         const EliteProTechMess = {
-                            image: { url: 'https://i.ibb.co/m5nZGQ11/img-c0dmriah.jpg' },
+                            image: { url: 'https://i.ibb.co/DHsMrMXq/img-3wf5guig.jpg' },
                             caption: EliteProTech_TEXT,
                             contextInfo: {
                                 mentionedJid: [EliteProTech.user.id],
